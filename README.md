@@ -1,10 +1,11 @@
 # CS-GO-Commands
 ez pz lemon sqz
 
-> Download the file knife_binds
-> Copy and paste or move the file in this path "...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"
+* Download the file knife_binds
+* Copy and paste or move the file in this path 
+* "...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"
 
-The folder structure after you move the file should look like this:
+### The folder structure after you move the file should look like this:
 ├── cfg  
 │   ├── knife_binds.cfg  
 │   ├── ...
@@ -15,4 +16,4 @@ The folder structure after you move the file should look like this:
 │   │   │   └── ...  
   
   
-Don't mind the "myconfig.cfg" file
+*Don't mind the "myconfig.cfg" file
