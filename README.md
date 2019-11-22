@@ -1,5 +1,5 @@
 # CS-GO-Commands
-ez pz lemon sqz
+### ez pz lemon sqz
 
 * Download the file knife_binds
 * Copy and paste or move the file in this path 
