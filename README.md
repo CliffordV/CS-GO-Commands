@@ -10,4 +10,4 @@
 <img src="https://github.com/CliffordV/CS-GO-Commands/blob/master/structure.PNG" />
 </p>
   
-* Don't mind the "structure.png"
+* Don't mind the "structure.png" and "README.md" files
