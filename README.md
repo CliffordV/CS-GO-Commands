@@ -10,4 +10,4 @@
 <img src="https://github.com/CliffordV/CS-GO-Commands/blob/master/structure.PNG" />
 </p>
   
-* Don't mind the "myconfig.cfg" file
+* Don't mind the "structure.png"
