@@ -16,4 +16,4 @@ ez pz lemon sqz
 │   │   │   └── ...  
   
   
-*Don't mind the "myconfig.cfg" file
+* Don't mind the "myconfig.cfg" file
