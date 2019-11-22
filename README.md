@@ -1,7 +1,7 @@
 # CS-GO-Commands
 ### ez pz lemon sqz
 
-* Download or Clone
+* Download as zip
 * Extract
 * Open knife_binds folder
 * Move all files in this path 
