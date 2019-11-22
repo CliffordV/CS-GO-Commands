@@ -6,15 +6,8 @@
 * "...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"
 
 ### The folder structure after you move the file should look like this:
-|--- cfg  
-│   |--- knife_binds.cfg  
-|   |--- config_name.cfg
-│   |--- ...
-│   |--- custom  
-│   │   |--- knives  
-│   │   │   --- knife_name.cfg  
-│   │   │   --- knife_name.cfg  
-│   │   │   --- ...  
-  
+<p align="left">
+<img src="https://github.com/CliffordV/CS-GO-Commands/blob/master/structure.PNG" width="400" height="500" alt="Frame 1"/>
+</p>
   
 * Don't mind the "myconfig.cfg" file
