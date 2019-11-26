@@ -16,6 +16,6 @@
 <img src="https://github.com/CliffordV/CS-GO-Commands/blob/master/folder_structure.PNG" />
 </p>
   
-* Don't mind the "structure.png" and "README.md" files
+* Don't mind the "folder_structure.png" and "README.md" files
 
 ### NOTE: For offline game only
