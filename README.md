@@ -18,4 +18,4 @@
   
 * Don't mind the "structure.png" and "README.md" files
 
-### This is only for offline game
+### NOTE: For offline game only
