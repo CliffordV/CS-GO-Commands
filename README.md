@@ -13,7 +13,7 @@
 
 #### The folder structure after you move the file should look like this:
 <p align="left">
-<img src="https://github.com/CliffordV/CS-GO-Commands/blob/master/structure.PNG" />
+<img src="https://github.com/CliffordV/CS-GO-Commands/blob/master/folder_structure.PNG" />
 </p>
   
 * Don't mind the "structure.png" and "README.md" files
